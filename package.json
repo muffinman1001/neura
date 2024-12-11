@@ -1,0 +1,13 @@
+
+{
+  "name": "3d-web-app",
+  "version": "1.0.0",
+  "description": "A 3D website with backend integration",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
